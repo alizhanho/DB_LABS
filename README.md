@@ -1,2 +1,2 @@
-# DB_Lab1
+# DB_LABS
 
